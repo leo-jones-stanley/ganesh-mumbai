@@ -1,0 +1,14 @@
+.card{
+    background-color: darkkhaki;
+    color: darkgray;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 10px;
+    margin: auto;
+    height: 10px;
+    
+}
